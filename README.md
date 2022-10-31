@@ -17,7 +17,16 @@
 * [API плагинов для mypy.](https://mypy.readthedocs.io/en/stable/extending_mypy.html)
 * [Тестирование плагинов для mypy.](https://sobolevn.me/2019/08/testing-mypy-types)
 * [pydantic mypy plugin.](https://pydantic-docs.helpmanual.io/mypy_plugin/)
-* ...
+
+### Проверка аннотаций типов
+* [mypy](https://github.com/python/mypy) - Дополнительная статическая типизация в Python
+* [beartype](https://github.com/beartype/beartype) - Невероятно быстрая O(1) проверка типов во время исполнения скриптов на чистом Python.
+* [deal](https://github.com/life4/deal) - Мощная библиотека для написания и тестирования контрактов ([Design by contract](https://en.wikipedia.org/wiki/Design_by_contract)). Считайте, что это типизация на стероидах.
+* [pyanalyze](https://github.com/quora/pyanalyze) - Расширяемый статический анализатор и средство проверки типов.
+* [pyre](https://pyre-check.org/) - Производительная проверка типов для Python 3.
+* [pytype](https://github.com/google/pytype) - Инструмент для проверки и вывода типов - не требуя аннотаций типов.
+* [pyright](https://github.com/Microsoft/pyright) - Быстрая программа проверки типов, предназначенная для больших баз исходных текстов Python. Он может работать в " следящем" режиме и выполняет быстрое инкрементное обновление при изменении файлов.
+* [pycharm](https://www.jetbrains.com/pycharm/) - Python IDE для профессиональных разработчиков с собственной реализацией проверки типов.
 
 ## Полезные материалы из третьей недели курса
 * [Типы полиморфизма.](https://medium.com/devschacht/polymorphism-207d9f9cd78)
