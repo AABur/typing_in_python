@@ -42,6 +42,7 @@
 * [Variance of generic types in Python](https://rednafi.github.io/reflections/variance-of-generic-types-in-python.html) - статься о разновидностях общих (generic) типов в Python ([PEP 483 – The Theory of Type Hints - Generic Types](https://peps.python.org/pep-0483/#generic-types)).
 * [Covariance, Contravariance, and Invariance — The Ultimate Python Guide](https://blog.daftcode.pl/covariance-contravariance-and-invariance-the-ultimate-python-guide-8fabc0c24278) - статья о вариативности типов в Python.
 * [Parse, Don’t Validate | Python Patterns](https://towardsdatascience.com/parse-dont-validate-f559372cca45)
+* [Python Type Checking | TestDriven.io](https://testdriven.io/blog/python-type-checking/)
 
 ## Материалы не по теме курса
 * [Category Theory for Programmers.](https://github.com/hmemcpy/milewski-ctfp-pdf)
